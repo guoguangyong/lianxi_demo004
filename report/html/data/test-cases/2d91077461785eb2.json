@@ -1,0 +1,66 @@
+{
+  "uid" : "2d91077461785eb2",
+  "name" : "test_demo.Test_Demo.test_003",
+  "fullName" : "scripts.test_demo.Test_Demo.test_003",
+  "historyId" : "1c0b08cbaf089856cd7d9c5970557c0e",
+  "time" : {
+    "start" : 1570417522947,
+    "stop" : 1570417522994,
+    "duration" : 47
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 0",
+  "statusTrace" : "self = <scripts.test_demo.Test_Demo object at 0x0000000003A88E10>\n\n    def test_003(self):\n>       assert 0\nE       assert 0\n\nscripts\\test_demo.py:10: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DAIYU"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "5560-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_demo.Test_Demo.test_003"
+  }, {
+    "name" : "package",
+    "value" : "scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "2d91077461785eb2.json",
+  "parameterValues" : [ ]
+}

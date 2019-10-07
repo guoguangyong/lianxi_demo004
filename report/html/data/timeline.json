@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DAIYU",
+    "children" : [ {
+      "name" : "5560-MainThread",
+      "children" : [ {
+        "name" : "test_demo.Test_Demo.test_003",
+        "uid" : "2d91077461785eb2",
+        "parentUid" : "dac28f07ce7c5adba1a29d0bbd4ae48e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1570417522947,
+          "stop" : 1570417522994,
+          "duration" : 47
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_demo.Test_Demo.test_001",
+        "uid" : "4619105bfa8d63f5",
+        "parentUid" : "dac28f07ce7c5adba1a29d0bbd4ae48e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1570417522941,
+          "stop" : 1570417522945,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_demo.Test_Demo.test_002",
+        "uid" : "9fbc7615c76d6dcb",
+        "parentUid" : "dac28f07ce7c5adba1a29d0bbd4ae48e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1570417522946,
+          "stop" : 1570417522946,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dac28f07ce7c5adba1a29d0bbd4ae48e"
+    } ],
+    "uid" : "c6bb4bce529b7b35b1ac6e94d6278d42"
+  } ]
+}
